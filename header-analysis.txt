@@ -1,0 +1,16 @@
+Return-Path: <account-security@micr0soft-support.com>
+Received: from mail.micr0soft-support.com (mail.micr0soft-support.com [203.0.113.12])
+    by mail.yourdomain.com (Postfix) with ESMTP id 0987654321
+    for <you@example.com>; Tue, 5 Aug 2025 03:24:15 +0000 (GMT)
+Received-SPF: fail (yourdomain.com: domain of micr0soft-support.com does not designate 203.0.113.12 as permitted sender) client-ip=203.0.113.12;
+Authentication-Results: yourdomain.com;
+    spf=fail (domain of micr0soft-support.com does not designate sending IP) smtp.mailfrom=account-security@micr0soft-support.com;
+    dkim=none (no signature);
+    dmarc=fail (p=none dis=none) header.from=micr0soft-support.com
+From: "Microsoft Security Team" <account-security@micr0soft-support.com>
+To: you@example.com
+Subject: Urgent: Unusual Sign-in Activity Detected
+Date: Tue, 5 Aug 2025 03:24:00 +0000
+Message-ID: <0987654321@mail.micr0soft-support.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8

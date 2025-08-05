@@ -1,0 +1,22 @@
+From: account-security@micr0soft-support.com
+To: you@example.com
+Subject: Urgent: Unusual Sign-in Activity Detected on Your Microsoft Account
+
+Dear User,
+
+We detected an unusual sign-in attempt to your Microsoft account from a new device.
+
+Location: Moscow, Russia  
+Device: Windows 10 - Chrome Browser  
+Time: August 5, 2025, 03:24 AM GMT
+
+If this was you, you can safely ignore this email.  
+If not, we recommend you **verify your identity immediately** to secure your account.
+
+Click here to verify your account - http://micr0soft-verify-login.com/login?session=compromised
+
+Failure to act within 24 hours may result in temporary suspension of your account.
+
+Thank you,  
+Microsoft Security Team  
+support@micr0soft-support.com
